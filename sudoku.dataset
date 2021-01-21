@@ -1,0 +1,5 @@
+classes=4
+train  = cfg/sudoku/train.txt
+valid  = cfg/sudoku/test.txt
+backup = cfg/sudoku/backup
+names  = cfg/sudoku/sudoku.names
